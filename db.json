@@ -1,0 +1,406 @@
+{
+    "artistas": [
+        {
+            "id": 1,
+            "nombre": "Audioslave"
+        },
+        {
+            "id": 2,
+            "nombre": "The Beatles"
+        },
+        {
+            "id": 3,
+            "nombre": "Collective Soul"
+        },
+        {
+            "id": 4,
+            "nombre": "Counting Crows"
+        },
+        {
+            "id": 5,
+            "nombre": "Depeche Mode"
+        },
+        {
+            "id": 6,
+            "nombre": "Divididos"
+        },
+        {
+            "id": 7,
+            "nombre": "Jamiroquai"
+        },
+        {
+            "id": 8,
+            "nombre": "Queen"
+        },
+        {
+            "id": 9,
+            "nombre": "The Rolling Stones"
+        },
+        {
+            "id": 10,
+            "nombre": "Fito Páez"
+        },
+        {
+            "id": 11,
+            "nombre": "Pedro Aznar"
+        },
+        {
+            "id": 12,
+            "nombre": "INXS"
+        },
+        {
+            "id": 13,
+            "nombre": "Lenny Kravitz"
+        },
+        {
+            "id": 14,
+            "nombre": "Patricio Rey y sus Redonditos de Ricota"
+        },
+        {
+            "id": 15,
+            "nombre": "Pearl Jam"
+        },
+        {
+            "id": 16,
+            "nombre": "Peter Gabriel"
+        },
+        {
+            "id": 17,
+            "nombre": "Sia"
+        },
+        {
+            "id": 18,
+            "nombre": "Regina Spektor"
+        },
+        {
+            "id": 19,
+            "nombre": "The Who"
+        },
+        {
+            "id": 20,
+            "nombre": "No Te Va Gustar"
+        },
+        {
+            "id": 21,
+            "nombre": "Led Zeppelin"
+        },
+        {
+            "id": 22,
+            "nombre": "Crash Test Dummies"
+        },
+        {
+            "id": 23,
+            "nombre": "The Smashing Pumpkins"
+        },
+        {
+            "id": 24,
+            "nombre": "Guns N' Roses"
+        },
+        {
+            "id": 25,
+            "nombre": "Metallica"
+        },
+        {
+            "id": 26,
+            "nombre": "Iron Maiden"
+        },
+        {
+            "id": 27,
+            "nombre": "Las Pelotas"
+        },
+        {
+            "id": 28,
+            "nombre": "Creedence Clearwater Revival"
+        },
+        {
+            "id": 29,
+            "nombre": "The Beach Boys"
+        },
+        {
+            "id": 30,
+            "nombre": "David Bowie"
+        }
+    ],
+    "discos" : [
+        {
+            "idArtista": 1,
+            "titulo": "Audioslave",
+            "lanzamiento": 2002
+        },
+        {
+            "idArtista": 1,
+            "titulo": "Out of Exile",
+            "lanzamiento": 2005
+        },
+        {
+            "idArtista": 2,
+            "titulo": "Sgt. Pepper's Lonely Hearts Club Band",
+            "lanzamiento": 1967
+        },
+        {
+            "idArtista": 2,
+            "titulo": "Abbey Road",
+            "lanzamiento": 1969
+        },
+        {
+            "idArtista": 2,
+            "titulo": "Let it Be",
+            "lanzamiento": 1970
+        },
+        {
+            "idArtista": 3,
+            "titulo": "Dosage",
+            "lanzamiento": 1999
+        },
+        {
+            "idArtista": 3,
+            "titulo": "Live",
+            "lanzamiento": 2017
+        },
+        {
+            "idArtista": 4,
+            "titulo": "August And Everything After",
+            "lanzamiento": 2007
+        },
+        {
+            "idArtista": 5,
+            "titulo": "Exciter",
+            "lanzamiento": 2001
+        },
+        {
+            "idArtista": 5,
+            "titulo": "Playing the Angel",
+            "lanzamiento": 2005
+        },
+        {
+            "idArtista": 6,
+            "titulo": "Acariciando lo Áspero",
+            "lanzamiento": 1991
+        },
+        {
+            "idArtista": 6,
+            "titulo": "Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+            "lanzamiento": 2000
+        },
+        {
+            "idArtista": 7,
+            "titulo": "Travelling Without Moving",
+            "lanzamiento": 1996
+        },
+        {
+            "idArtista": 7,
+            "titulo": "A Funk Odyssey",
+            "lanzamiento": 2001
+        },
+        {
+            "idArtista": 7,
+            "titulo": "Automaton",
+            "lanzamiento": 2017
+        },
+        {
+            "idArtista": 8,
+            "titulo": "A Night At The Opera",
+            "lanzamiento": 1975
+        },
+        {
+            "idArtista": 8,
+            "titulo": "The Game",
+            "lanzamiento": 1980
+        },
+        {
+            "idArtista": 8,
+            "titulo": "Innuendo",
+            "lanzamiento": 1991
+        },
+        {
+            "idArtista": 9,
+            "titulo": "Let it Bleed",
+            "lanzamiento": 1969
+        },
+        {
+            "idArtista": 9,
+            "titulo": "Flashpoint",
+            "lanzamiento": 1991
+        },
+        {
+            "idArtista": 9,
+            "titulo": "Bridges to Babylon",
+            "lanzamiento": 1997
+        },
+        {
+            "idArtista": 10,
+            "titulo": "El Amor Después del Amor",
+            "lanzamiento": 1992
+        },
+        {
+            "idArtista": 10,
+            "titulo": "Abre",
+            "lanzamiento": 1999
+        },
+        {
+            "idArtista": 11,
+            "titulo": "Cuando La Lluvia Te Moje Los Pies",
+            "lanzamiento": 2013
+        },
+        {
+            "idArtista": 11,
+            "titulo": "Mil Noches y Un Instante (en vivo en el Teatro Gran Rex)",
+            "lanzamiento": 2014
+        },
+        {
+            "idArtista": 12,
+            "titulo": "Kick 30",
+            "lanzamiento": 1987
+        },
+        {
+            "idArtista": 13,
+            "titulo": "Circus",
+            "lanzamiento": 1995
+        },
+        {
+            "idArtista": 13,
+            "titulo": "5",
+            "lanzamiento": 1998
+        },
+        {
+            "idArtista": 14,
+            "titulo": "Un Baión para el Ojo Idiota",
+            "lanzamiento": 1988
+        },
+        {
+            "idArtista": 14,
+            "titulo": "Lobo Suelto / Cordero Atado",
+            "lanzamiento": 1993
+        },
+        {
+            "idArtista": 14,
+            "titulo": "Luzbelito",
+            "lanzamiento": 1996
+        },
+        {
+            "idArtista": 15,
+            "titulo": "Ten",
+            "lanzamiento": 1991
+        },
+        {
+            "idArtista": 15,
+            "titulo": "Vitalogy",
+            "lanzamiento": 1994
+        },
+        {
+            "idArtista": 15,
+            "titulo": "Lightning Bolt",
+            "lanzamiento": 2013
+        },
+        {
+            "idArtista": 16,
+            "titulo": "So",
+            "lanzamiento": 1986
+        },
+        {
+            "idArtista": 16,
+            "titulo": "Us",
+            "lanzamiento": 1992
+        },
+        {
+            "idArtista": 16,
+            "titulo": "Live Blood",
+            "lanzamiento": 2012
+        },
+        {
+            "idArtista": 17,
+            "titulo": "1000 Forms Of Fear",
+            "lanzamiento": 2014
+        },
+        {
+            "idArtista": 18,
+            "titulo": "Begin To Hope",
+            "lanzamiento": 2006
+        },
+        {
+            "idArtista": 19,
+            "titulo": "Who's Next",
+            "lanzamiento": 1971
+        },
+        {
+            "idArtista": 20,
+            "titulo": "El Calor Del Pleno Invierno",
+            "lanzamiento": 2012
+        },
+        {
+            "idArtista": 21,
+            "titulo": "Led Zeppelin IV",
+            "lanzamiento": 1971
+        },
+        {
+            "idArtista": 21,
+            "titulo": "Led Zeppelin",
+            "lanzamiento": 1969
+        },
+        {
+            "idArtista": 22,
+            "titulo": "God Shuffled His Feet",
+            "lanzamiento": 1993
+        },
+        {
+            "idArtista": 23,
+            "titulo": "Mellon Collie And The Infinite Sadness",
+            "lanzamiento": 1995
+        },
+        {
+            "idArtista": 24,
+            "titulo": "Appetite For Destruction",
+            "lanzamiento": 1987
+        },
+        {
+            "idArtista": 24,
+            "titulo": "Use Your Illusion I",
+            "lanzamiento": 1991
+        },
+        {
+            "idArtista": 24,
+            "titulo": "Use Your Illusion II",
+            "lanzamiento": 1991
+        },
+        {
+            "idArtista": 25,
+            "titulo": "Metallica",
+            "lanzamiento": 1991
+        },
+        {
+            "idArtista": 25,
+            "titulo": "Garage Inc.",
+            "lanzamiento": 1998
+        },
+        {
+            "idArtista": 26,
+            "titulo": "The Number Of The Beast",
+            "lanzamiento": 1982
+        },
+        {
+            "idArtista": 26,
+            "titulo": "Brave New World",
+            "lanzamiento": 2000
+        },
+        {
+            "idArtista": 27,
+            "titulo": "Vivo",
+            "lanzamiento": 2011
+        },
+        {
+            "idArtista": 28,
+            "titulo": "Cosmo's Factory",
+            "lanzamiento": 1970
+        },
+        {
+            "idArtista": 29,
+            "titulo": "Pet Sounds",
+            "lanzamiento": 1966
+        },
+        {
+            "idArtista": 30,
+            "titulo": "Hunky Dory",
+            "lanzamiento": 1971
+        }
+    ]
+}
