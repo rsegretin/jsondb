@@ -17,6 +17,11 @@
             "artista": "Collective Soul",
             "titulo": "Live",
             "lanzamiento": 2017
-        }
+        },
+        {
+            "id": "pearl-jam-ten",
+            "artista": "Pearl Jam",
+            "titulo": "Ten",
+            "lanzamiento": 1991
     ]
 }
