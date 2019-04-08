@@ -402,5 +402,25 @@
             "titulo": "Hunky Dory",
             "lanzamiento": 1971
         }
-    ]
+    ],
+    "discografia": [
+    {
+        "id": "beatles-abbey-road",
+        "artista": "The Beatles",
+        "titulo": "Abbey Road",
+        "lanzamiento": 1968
+    },
+    {
+        "id": "rolling-stones-flashback",
+        "artista": "The Rolling Stones",
+        "titulo": "Flashback",
+        "lanzamiento": 1991
+    },
+    {
+        "id": "collective-soul-live",
+        "artista": "Collective Soul",
+        "titulo": "Live",
+        "lanzamiento": 2017
+    }
+]
 }
